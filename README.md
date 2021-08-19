@@ -1,3 +1,9 @@
+<h1 align="center">ɪͥᴛͭsᷤ ᴍͫᴇͤ☚⃟፝✪͜͡𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐋𝐀𝐋𝐋𝐔≛⃝𝗢𝗚⁩≛⃝🇦🇴𝗦𝗜𝗡𝗖𝗘 2020≛⃝🇦🇴</h1>
+
+<img src="https://www.linkpicture.com/q/PicsArt_08-03-04.14.54.jpg">
+
+<h1 align="center">❱❱✪C7836✪M0N5TER L4LLU✪❱❱
+
 <!-- Links -->
 [bmac]: https://www.buymeacoffee.com/adi1090x
 [ko-fi]: https://ko-fi.com/adi1090x
