@@ -35,7 +35,7 @@ Follow the steps below -
 cd $HOME
 
 # clone this repository - 
-git clone https://github.com/adi1090x/termux-style
+git clone https://github.com/Monsterlallu/termux-style.git
 
 # change to termux-style dir -
 cd termux-style
