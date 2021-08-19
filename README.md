@@ -4,6 +4,9 @@
 
 <h1 align="center">❱❱✪C7836✪M0N5TER L4LLU✪❱❱
 
+  <p align="center">
+
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/MONSTER-Termux--style-yellowgreen">
 <!-- Links -->
 [bmac]: https://www.buymeacoffee.com/adi1090x
 [ko-fi]: https://ko-fi.com/adi1090x
