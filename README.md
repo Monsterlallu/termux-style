@@ -116,6 +116,6 @@ $ termux-style
 - Again... If you can improve it, sure...
 - Have fun!
 
-  <h1 align="center">THE TOOL DEVLOPED
-  <h1 align="center">BY
+  <h1 align="center">THE TOOL DEVLOPED BY
+
   <h1 align="center">ARAKKAL MONSTER LALLU
