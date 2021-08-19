@@ -115,3 +115,7 @@ $ termux-style
 - An `uninstall` script is also added, in case you want to remove this program.
 - Again... If you can improve it, sure...
 - Have fun!
+
+  <h1 align="center">THE TOOL DEVLOPED
+  <h1 align="center">BY
+  <h1 align="center">ARAKKAL MONSTER LALLU
